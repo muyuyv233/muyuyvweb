@@ -133,8 +133,8 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
-      type: talks
+      path: "_talks"
+      type: hi
     values:
       layout: talk
       author_profile: true
